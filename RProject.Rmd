@@ -45,9 +45,9 @@ install.packages("scales")
 
 ## . Data description
 
-The first data set is monthly Unemployment rates in the US since 1950, taken as a percentage of unemployed individuals out of the total labor force.The second data set is the monthly inflation rate percentages in the United States since 2010 based on the Treasury Constant Maturity Securities and the Treasury Inflation-Indexed Constant Maturity Securities. Both sets of data are from 
+The first data set is monthly Unemployment rates in the US since 1950, taken as a percentage of unemployed individuals out of the total labor force.The second data set is the monthly inflation rate percentages in the United States since 2010 based on the Treasury Constant Maturity Securities and the Treasury Inflation-Indexed Constant Maturity Securities. 
 
-## . Data loading and manipulation
+## .Data loading and manipulation
 
 #Read Data 
 ```{r}
